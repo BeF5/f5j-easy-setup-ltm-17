@@ -12,6 +12,13 @@ Poolの作成
    :scale: 20%
    :align: center
 
+.. note::
+   F5 UDF Labでは以下の通り指定してください。
+   Node Name:空欄で構いません。
+   Address: 10.1.20.201
+            10.1.20.202
+   Service Port:80
+
 - Poolが作成されると、以下の状態になります。
 
 .. figure:: images/mod5-1-1-2.png

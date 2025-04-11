@@ -47,5 +47,6 @@ Cookieによるパーシスタンス
 
 .. note::
    確認ができたら、次項以降のテストのために、Persistance ProfileをVirtual Serverの設定からはずします。
+   「Local Traffic」 → 「Virtual Servers」で表示されたバーチャルサーバ：http-vs-001を選択し、ResourcesタブからDefault Persistence ProfileでNoneを選択しUpdateします。
 
 
